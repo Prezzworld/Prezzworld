@@ -2,11 +2,11 @@
 
 ### MERN Stack Developer
 
-I'm a Computer Science graduate focused on building **full-stack web applications** with JavaScript and the MERN stack.
+I'm a software developer focused on building **full-stack web applications** with JavaScript and the MERN stack.
 
 I enjoy turning ideas into practical, user-focused products and I'm particularly interested in building reliable backend systems, integrating APIs, and creating clean and responsive user interfaces.
 
-Currently, I'm strengthening my JavaScript fundamentals and deepening my understanding of **production-level software development, scalable application architecture, and backend engineering**.
+Currently, I'm strengthening my programming skills and deepening my understanding of **production-level software development, scalable application architecture, and backend engineering**.
 
 ---
 
@@ -75,7 +75,7 @@ A full-stack e-commerce web application built for a food business, designed to s
 
 I'm currently focused on becoming a stronger software developer by improving:
 
-* JavaScript fundamentals and programming logic
+* JavaScript mastery and programming logic
 * Backend architecture and API design
 * Authentication and authorization
 * Error handling and validation
